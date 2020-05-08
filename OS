@@ -1,0 +1,19 @@
+
+Ubuntu 
+
+Debian 
+
+Redhat
+
+
+2 component make up os
+
+a) Kernel
+-process manager
+- memory manager
+- file manager
+- i/ manager
+
+b? User space
+- application
+
