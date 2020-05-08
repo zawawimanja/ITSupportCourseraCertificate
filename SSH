@@ -1,0 +1,19 @@
+
+SSH - secure shell
+unlock - private key
+       public key
+
+terminal - ssh awi@ipadress
+
+SSH TO remote computer
+
+1 - Using putty ,port 22 hostname
+
+
+powershell
+2 - putty.exe -ssh awi@ipaddress
+
+
+RDP windows
+
+3 - system -properties - remote settings - remote desktop
