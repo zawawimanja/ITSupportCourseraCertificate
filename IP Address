@@ -1,0 +1,14 @@
+open cmd 
+ipconfig
+
+Link-local IPv6 Address . . . . . : fe80::d935:a946:b789:cb9c%6
+//local address//internal lan network address
+IPv4 Address. . . . . . . . . . . : 192.168.0.159
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+   
+   
+   
+   public address is shown by gooogle
+   
+    202.185.172.174 = ipv4
